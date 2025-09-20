@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Knitting Journey</title>
+  <style>
+    body { font-family: sans-serif; padding: 2em; background: #fdf6f0; }
+    h1 { color: #b56576; }
+    img { max-width: 100%; height: auto; }
+  </style>
+</head>
+<body>
+  <h1>Welcome to My Knitting Journey</h1>
+  <p>Hi! I'm Stephanie, and this is where I document my adventures in yarn, needles, and creativity.</p>
+  <h2>🧶 Projects</h2>
+  <ul>
+    <li>Custom-fit socks</li>
+    <li>Cozy scarves</li>
+    <li>Experimental textures</li>
+  </ul>
+  <h2>📸 Gallery</h2>
+  <p>Coming soon: photos of my favorite pieces!</p>
+</body>
+</html>
